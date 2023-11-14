@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu/home/hyfy/1-Projects/homepage"
+		}
+	],
+  "remoteAuthority": "wsl+Ubuntu",
+  "settings": {}
+}
